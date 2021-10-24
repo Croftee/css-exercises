@@ -1,0 +1,18 @@
+.Number1{
+    background-color:rgb(255, 182, 193);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#div1{
+    font-size: 36px;
+    color:rgb(0, 72, 205);
+}
+.Number3{
+    font-size: 24px;
+}
+
+#div2{
+    font-weight: bold;
+    font-size: 24px;
+    background-color: rgba(88, 235, 125, 0.774)
+}
